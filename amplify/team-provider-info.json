@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vipanilive-dev-194350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::237586172227:role/amplify-vipanilive-dev-194350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::237586172227:role/amplify-vipanilive-dev-194350-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-vipanilive-dev-194350-deployment",
+      "UnauthRoleName": "amplify-vipanilive-dev-194350-unauthRole",
+      "StackName": "amplify-vipanilive-dev-194350",
+      "StackId": "arn:aws:cloudformation:us-east-2:237586172227:stack/amplify-vipanilive-dev-194350/c0515560-569e-11ec-933a-0a62f9577994",
+      "AmplifyAppId": "d1sdb4e6b0p5am"
+    }
+  }
+}
