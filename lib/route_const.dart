@@ -1,0 +1,36 @@
+class RouteConst {
+  static const String flowPage = "flowPage";
+  static const String landingPage = "landingPage";
+  static const String logingooglePage = "logingooglePage";
+  static const String namePage = "namePage";
+  static const String mobilesigninPage = "mobilesigninPage";
+  static const String gamilLoginPage = "gmailLoginPage";
+  static const String passwordPage = "passwordPage";
+  static const String resetPassword = "resetPassword";
+  static const String changePassword = "changePassword";
+  static const String addinfoPage = "addinfoPage";
+  static const String verifynumberPage = "verifynumberPage";
+  static const String homePage = "homePage";
+  static const String dashboard = '/dashboard';
+  static const String newUserPage = '/newUser';
+  static const String addShop = '/add_shop';
+  static const String chatPage = '/chatPage';
+  static const String productCreation = '/create_product';
+  static const String addPhoto = '/add_photo';
+  static const String contactInfo = '/contact_info';
+  static const String productAvailability = '/product_availability';
+  static const String addProductPrice = '/add_product_price';
+  static const String shopList = '/shop_list';
+  static const String shopHome = '/shop_home';
+  static const String splash = '/';
+  static const String searchCategory = '/search_category';
+  static const String searchResults = '/search_results';
+  static const String profilePage = '/profile';
+  static const String customWebview = '/custom_webview';
+  static const String userProfile = '/user_profile';
+  static const String shopReview = '/shop_review';
+  static const String writeReview = '/write_review';
+  static const String notifications = '/notifications';
+  static const String editProfile = '/edit_profile';
+  static const String verifyOtp = '/verify_otp';
+}
